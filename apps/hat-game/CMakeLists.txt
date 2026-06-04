@@ -4,4 +4,8 @@ file(GLOB
     "./*.h"
 )
 
-game_project(hat-game ${HAT_GAME})
+game_project(hat-game
+    ${HAT_GAME}
+    LINK_LIBRARIES
+        nakuyadebugger
+)

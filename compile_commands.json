@@ -163,6 +163,12 @@
 },
 {
   "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -Dnakuyadebugger_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fosrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\logger.c.obj /Fdsrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\logger.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\logger.c",
+  "output": "src\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\logger.c.obj"
+},
+{
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
   "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foapps\\hat-game\\CMakeFiles\\hat-game.dir\\main.c.obj /Fdapps\\hat-game\\CMakeFiles\\hat-game.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\main.c",
   "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\main.c",
   "output": "apps\\hat-game\\CMakeFiles\\hat-game.dir\\main.c.obj"

@@ -11,4 +11,5 @@ include(cmake/game-architecture.cmake)
 
 include_directories(include)
 add_subdirectory(external)
+add_subdirectory(src)
 add_subdirectory(apps)

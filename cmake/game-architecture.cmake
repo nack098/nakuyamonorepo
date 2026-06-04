@@ -13,22 +13,49 @@ endfunction()
 
 function(add_shared_api NAME)
     add_library(${NAME} SHARED ${ARGN})
+    target_compile_definitions(${NAME} PRIVATE 
+        BUILD_LIBTYPE_SHARED
+        RAYLIB_SHARED
+    )
     target_link_libraries(${NAME} PRIVATE raylib)
     target_include_directories(${NAME} PUBLIC 
         ${PROJECT_SOURCE_DIR}/include
     )
 endfunction()
 
-function(game_project NAME SOURCES)
+function(game_project NAME)
     set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/${NAME}" PARENT_SCOPE)
     set(CMAKE_RUNTIME_OUTPUT_DIRECTORY "${CMAKE_RUNTIME_OUTPUT_DIRECTORY}/${NAME}")
-    add_executable(${NAME}
-        ${SOURCES}
-    )
-    target_link_libraries(
-        ${NAME}
+
+    set(mode "SOURCES")
+    set(game_sources "")
+    set(game_deps "")
+
+    foreach(arg ${ARGN})
+        if(arg STREQUAL "LINK_LIBRARIES")
+            set(mode "DEPS")
+        elseif(mode STREQUAL "SOURCES")
+            list(APPEND game_sources "${arg}")
+        else()
+            list(APPEND game_deps "${arg}")
+        endif()
+    endforeach()
+
+    add_executable(${NAME} ${game_sources})
+    target_compile_definitions(${NAME} PRIVATE RAYLIB_SHARED)
+    target_link_libraries(${NAME}
         PRIVATE
             raylib
+            ${game_deps}
     )
+
+    add_custom_command(
+        TARGET ${NAME} POST_BUILD
+        COMMAND ${CMAKE_COMMAND} -E copy -t "$<TARGET_FILE_DIR:${NAME}>" 
+                "$<TARGET_RUNTIME_DLLS:${NAME}>"
+        COMMAND_EXPAND_LISTS
+        COMMENT "Automatically detecting and deploying runtime dependencies for ${NAME}..."
+    )
+
     target_copy_assets(${NAME})
 endfunction()
