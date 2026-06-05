@@ -12,12 +12,33 @@ function(target_copy_assets TARGET_NAME)
 endfunction()
 
 function(add_shared_api NAME)
-    add_library(${NAME} SHARED ${ARGN})
+    set(mode "SOURCES")
+    set(lib_sources "")
+    set(lib_deps "")
+
+    foreach(arg ${ARGN})
+        if(arg STREQUAL "LINK_LIBRARIES")
+            set(mode "DEPS")
+        elseif(mode STREQUAL "SOURCES")
+            list(APPEND lib_sources "${arg}")
+        else()
+            list(APPEND lib_deps "${arg}")
+        endif()
+    endforeach()
+
+    add_library(${NAME} SHARED ${lib_sources})
+    
     target_compile_definitions(${NAME} PRIVATE 
         BUILD_LIBTYPE_SHARED
         RAYLIB_SHARED
     )
-    target_link_libraries(${NAME} PRIVATE raylib)
+    
+    target_link_libraries(${NAME} 
+        PRIVATE 
+            raylib
+            ${lib_deps}
+    )
+    
     target_include_directories(${NAME} PUBLIC 
         ${PROJECT_SOURCE_DIR}/include
     )
