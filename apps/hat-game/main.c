@@ -137,7 +137,7 @@ int main(void) {
     }
 
     while (!WindowShouldClose()) {
-        if (IsKeyPressed(KEY_F5)) {
+        if (IsKeyPressed(DEBUG_KEY)) {
             if (load_game_code(&game_state)) {
                 if (game_state.init)
                     game_state.init();
@@ -148,7 +148,6 @@ int main(void) {
             game_state.update();
 
         BeginDrawing();
-        ClearBackground(DEFAULT_BG_COLOR);
 
         if (game_state.render)
             game_state.render();

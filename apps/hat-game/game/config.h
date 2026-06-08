@@ -6,3 +6,4 @@
 #define OFFSET 1000
 #define VELOCITY 1
 #define DEFAULT_BG_COLOR BLACK
+#define DEBUG_KEY KEY_R

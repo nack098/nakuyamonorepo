@@ -76,8 +76,12 @@ RLAPI void logger(E_LOG level, const char *name, const char *file_name,
     }
 
     va_start(args, format);
-    vsnprintf_s(message_buffer, sizeof(message_buffer), LOG_MAX_LENGTH, format,
+#ifdef _MSC_VER
+    vsnprintf_s(message_buffer, sizeof(message_buffer), _TRUNCATE, format,
                 args);
+#else
+    vsnprintf(message_buffer, sizeof(message_buffer), format, args);
+#endif
     va_end(args);
 
     time(&raw_time);

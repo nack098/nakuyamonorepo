@@ -8,11 +8,6 @@ typedef struct state_t State;
 typedef void (*state_function)(void);
 
 struct state_t {
-    enum {
-        s_init,
-        s_update,
-        s_exit,
-    } scene_state;
     state_function init;
     state_function update;
     state_function render;
@@ -20,3 +15,7 @@ struct state_t {
 };
 
 RLAPI void bootloader(State *state);
+
+RLAPI void change_scene(State *state, state_function init,
+                        state_function update, state_function render,
+                        state_function exit);
