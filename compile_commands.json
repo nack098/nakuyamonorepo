@@ -1,200 +1,200 @@
 [
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGL_SILENCE_DEPRECATION -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -Draylib_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -arch arm64 -fPIC -fvisibility=hidden -o CMakeFiles/raylib.dir/rcore.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/rcore.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/rcore.c",
-  "output": "external/raylib/raylib/CMakeFiles/raylib.dir/rcore.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -Draylib_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src -imsvcD:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj /Fdexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rcore.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rcore.c",
+  "output": "external\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rcore.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGL_SILENCE_DEPRECATION -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -Draylib_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -arch arm64 -fPIC -fvisibility=hidden -o CMakeFiles/raylib.dir/rshapes.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/rshapes.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/rshapes.c",
-  "output": "external/raylib/raylib/CMakeFiles/raylib.dir/rshapes.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -Draylib_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src -imsvcD:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj /Fdexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rshapes.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rshapes.c",
+  "output": "external\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rshapes.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGL_SILENCE_DEPRECATION -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -Draylib_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -arch arm64 -fPIC -fvisibility=hidden -o CMakeFiles/raylib.dir/rtext.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/rtext.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/rtext.c",
-  "output": "external/raylib/raylib/CMakeFiles/raylib.dir/rtext.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -Draylib_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src -imsvcD:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj /Fdexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rtext.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rtext.c",
+  "output": "external\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rtext.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGL_SILENCE_DEPRECATION -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -Draylib_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -arch arm64 -fPIC -fvisibility=hidden -o CMakeFiles/raylib.dir/rtextures.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/rtextures.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/rtextures.c",
-  "output": "external/raylib/raylib/CMakeFiles/raylib.dir/rtextures.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -Draylib_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src -imsvcD:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj /Fdexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rtextures.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rtextures.c",
+  "output": "external\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rtextures.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGL_SILENCE_DEPRECATION -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -Draylib_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -arch arm64 -fPIC -fvisibility=hidden -o CMakeFiles/raylib.dir/raudio.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/raudio.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/raudio.c",
-  "output": "external/raylib/raylib/CMakeFiles/raylib.dir/raudio.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -Draylib_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src -imsvcD:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj /Fdexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\raudio.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\raudio.c",
+  "output": "external\\raylib\\raylib\\CMakeFiles\\raylib.dir\\raudio.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGL_SILENCE_DEPRECATION -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -Draylib_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -F/Library/Developer/CommandLineTools/SDKs/MacOSX.sdk/System/Library/Frameworks -isystem /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=gnu99 -arch arm64 -fPIC -fvisibility=hidden -o CMakeFiles/raylib.dir/rmodels.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/rmodels.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/rmodels.c",
-  "output": "external/raylib/raylib/CMakeFiles/raylib.dir/rmodels.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -D_CRT_SECURE_NO_WARNINGS -Draylib_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src -imsvcD:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj /Fdexternal\\raylib\\raylib\\CMakeFiles\\raylib.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rmodels.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\rmodels.c",
+  "output": "external\\raylib\\raylib\\CMakeFiles\\raylib.dir\\rmodels.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/context.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/context.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/context.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/context.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\context.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\context.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\context.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/init.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/init.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/init.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/init.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\init.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\init.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\init.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/input.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/input.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/input.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/input.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\input.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\input.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\input.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/monitor.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/monitor.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/monitor.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/monitor.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\monitor.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\monitor.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\monitor.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/platform.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/platform.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/platform.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/platform.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\platform.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\platform.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\platform.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/vulkan.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/vulkan.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/vulkan.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\vulkan.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\vulkan.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\vulkan.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/window.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/window.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/window.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/window.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\window.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\window.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\window.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/egl_context.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/egl_context.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/egl_context.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\egl_context.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\egl_context.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\egl_context.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/osmesa_context.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/osmesa_context.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/osmesa_context.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\osmesa_context.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\osmesa_context.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\osmesa_context.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/null_init.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_init.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_init.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_init.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_init.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_init.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_init.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/null_monitor.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_monitor.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_monitor.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_monitor.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_monitor.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_monitor.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/null_window.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_window.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_window.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_window.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_window.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_window.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_window.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/null_joystick.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_joystick.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/null_joystick.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_joystick.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\null_joystick.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\null_joystick.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/cocoa_time.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_time.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_time.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_time.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_module.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_module.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_module.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/posix_module.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/posix_module.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/posix_module.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_module.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_time.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_time.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_time.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/posix_thread.c.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/posix_thread.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/posix_thread.c",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/posix_thread.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_thread.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_thread.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_thread.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/cocoa_init.m.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_init.m",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_init.m",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_init.m.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_init.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_init.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_init.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/cocoa_joystick.m.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_joystick.m",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_joystick.m",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_joystick.m.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_joystick.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_joystick.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_joystick.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/cocoa_monitor.m.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_monitor.m",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_monitor.m",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_monitor.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_monitor.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_monitor.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/cocoa_window.m.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_window.m",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/cocoa_window.m",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/cocoa_window.m.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_window.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\win32_window.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\win32_window.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src",
-  "command": "/usr/bin/cc -D_GLFW_COCOA -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src -I/Users/bricks/works/nakuyamonorepo/build/external/raylib/raylib/external/glfw/src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith  -std=c99 -arch arm64 -fPIC -fvisibility=hidden -Wall -o CMakeFiles/glfw.dir/nsgl_context.m.o -c /Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/nsgl_context.m",
-  "file": "/Users/bricks/works/nakuyamonorepo/external/raylib/src/external/glfw/src/nsgl_context.m",
-  "output": "external/raylib/raylib/external/glfw/src/CMakeFiles/glfw.dir/nsgl_context.m.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DUNICODE -D_CRT_SECURE_NO_WARNINGS -D_GLFW_WIN32 -D_UNICODE -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\build\\external\\raylib\\raylib\\external\\glfw\\src -fno-strict-aliasing -Werror=implicit-function-declaration -Werror=pointer-arith /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /W3 /Foexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj /Fdexternal\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\wgl_context.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src\\external\\glfw\\src\\wgl_context.c",
+  "output": "external\\raylib\\raylib\\external\\glfw\\src\\CMakeFiles\\glfw.dir\\wgl_context.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/src/nakuyadebugger",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dnakuyadebugger_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -std=gnu2x -arch arm64 -fPIC -o CMakeFiles/nakuyadebugger.dir/debugger.c.o -c /Users/bricks/works/nakuyamonorepo/src/nakuyadebugger/debugger.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/src/nakuyadebugger/debugger.c",
-  "output": "src/nakuyadebugger/CMakeFiles/nakuyadebugger.dir/debugger.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dnakuyadebugger_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fosrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\debugger.c.obj /Fdsrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\debugger.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\debugger.c",
+  "output": "src\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\debugger.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/src/nakuyadebugger",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dnakuyadebugger_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -std=gnu2x -arch arm64 -fPIC -o CMakeFiles/nakuyadebugger.dir/logger.c.o -c /Users/bricks/works/nakuyamonorepo/src/nakuyadebugger/logger.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/src/nakuyadebugger/logger.c",
-  "output": "src/nakuyadebugger/CMakeFiles/nakuyadebugger.dir/logger.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dnakuyadebugger_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fosrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\logger.c.obj /Fdsrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\logger.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\logger.c",
+  "output": "src\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\logger.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/src/nakuyadebugger",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dnakuyadebugger_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -std=gnu2x -arch arm64 -fPIC -o CMakeFiles/nakuyadebugger.dir/raygui.c.o -c /Users/bricks/works/nakuyamonorepo/src/nakuyadebugger/raygui.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/src/nakuyadebugger/raygui.c",
-  "output": "src/nakuyadebugger/CMakeFiles/nakuyadebugger.dir/raygui.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dnakuyadebugger_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Fosrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\raygui.c.obj /Fdsrc\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\raygui.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\src\\nakuyadebugger\\raygui.c",
+  "output": "src\\nakuyadebugger\\CMakeFiles\\nakuyadebugger.dir\\raygui.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/apps/hat-game",
-  "command": "/usr/bin/cc -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -std=gnu2x -arch arm64 -o CMakeFiles/hat-game.dir/main.c.o -c /Users/bricks/works/nakuyamonorepo/apps/hat-game/main.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/apps/hat-game/main.c",
-  "output": "apps/hat-game/CMakeFiles/hat-game.dir/main.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foapps\\hat-game\\CMakeFiles\\hat-game.dir\\main.c.obj /Fdapps\\hat-game\\CMakeFiles\\hat-game.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\main.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\main.c",
+  "output": "apps\\hat-game\\CMakeFiles\\hat-game.dir\\main.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/apps/hat-game/game",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dapp_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -std=gnu2x -arch arm64 -fPIC -o CMakeFiles/app.dir/bootloader.c.o -c /Users/bricks/works/nakuyamonorepo/apps/hat-game/game/bootloader.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/apps/hat-game/game/bootloader.c",
-  "output": "apps/hat-game/game/CMakeFiles/app.dir/bootloader.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dapp_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foapps\\hat-game\\game\\CMakeFiles\\app.dir\\bootloader.c.obj /Fdapps\\hat-game\\game\\CMakeFiles\\app.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\game\\bootloader.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\game\\bootloader.c",
+  "output": "apps\\hat-game\\game\\CMakeFiles\\app.dir\\bootloader.c.obj"
 },
 {
-  "directory": "/Users/bricks/works/nakuyamonorepo/build/apps/hat-game/game",
-  "command": "/usr/bin/cc -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dapp_EXPORTS -I/Users/bricks/works/nakuyamonorepo/include -I/Users/bricks/works/nakuyamonorepo/external/raylib/src -std=gnu2x -arch arm64 -fPIC -o CMakeFiles/app.dir/hat-making.c.o -c /Users/bricks/works/nakuyamonorepo/apps/hat-game/game/hat-making.c",
-  "file": "/Users/bricks/works/nakuyamonorepo/apps/hat-game/game/hat-making.c",
-  "output": "apps/hat-game/game/CMakeFiles/app.dir/hat-making.c.o"
+  "directory": "D:/Nack_Files/works/Programming_Projects/nakuyamonorepo/build",
+  "command": "D:\\VisualStudio\\VC\\Tools\\Llvm\\x64\\bin\\clang-cl.exe  /nologo -DBUILD_LIBTYPE_SHARED -DGRAPHICS_API_OPENGL_33 -DPLATFORM_DESKTOP -DRAYLIB_SHARED -Dapp_EXPORTS -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\include -ID:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\external\\raylib\\src /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -MDd /Foapps\\hat-game\\game\\CMakeFiles\\app.dir\\hat-making.c.obj /Fdapps\\hat-game\\game\\CMakeFiles\\app.dir\\ -c -- D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\game\\hat-making.c",
+  "file": "D:\\Nack_Files\\works\\Programming_Projects\\nakuyamonorepo\\apps\\hat-game\\game\\hat-making.c",
+  "output": "apps\\hat-game\\game\\CMakeFiles\\app.dir\\hat-making.c.obj"
 }
 ]

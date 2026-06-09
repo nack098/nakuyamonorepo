@@ -5,10 +5,10 @@
 
 RLAPI void bootloader(State *state) {
     LOG_DEBUG("Bootloader Initialize");
-    state->init = &hat_cutting_init;
-    state->update = &hat_cutting_update;
-    state->render = &hat_cutting_render;
-    state->exit = &hat_cutting_exit;
+    state->init = &hat_making_init;
+    state->update = &hat_making_update;
+    state->render = &hat_making_render;
+    state->exit = &hat_making_exit;
 }
 
 void change_scene(State *state, state_function init, state_function update,
