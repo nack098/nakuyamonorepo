@@ -4,6 +4,7 @@
 
 #include "loader-config.h"
 #include "loader.h"
+#include "raylib.h"
 #include "systems.h"
 
 #include <nakuyadebugger.h>
@@ -14,7 +15,8 @@ static bool is_running = false;
 int main(void) {
     State game_state = {0};
 
-    SetConfigFlags(FLAG_WINDOW_TRANSPARENT | FLAG_WINDOW_UNDECORATED);
+    SetConfigFlags(FLAG_WINDOW_TRANSPARENT | FLAG_WINDOW_UNDECORATED |
+                   FLAG_WINDOW_TOPMOST);
     InitWindow(WIDTH, HEIGHT, NAME);
     ChangeDirectory(GetApplicationDirectory());
 

@@ -253,7 +253,7 @@ static void draw_text_input(void) {
         } else if (bar_counter < 0.75) {
             DrawRectangle(
                 12 + glyph_size(assets_data.noto_sans_medium, buffer, 24),
-                HEIGHT - 26, 2, 18, CATPUCCIN_TEXT);
+                HEIGHT - 28, 2, 18, CATPUCCIN_TEXT);
         }
     }
 
