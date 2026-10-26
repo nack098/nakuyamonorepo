@@ -127,6 +127,8 @@ static void read_array_from_file(const char *path, TodoItem **arr) {
     string_t name = NULL;
 
     data = LoadFileData(path, &data_size);
+    if (data == NULL)
+        return;
     read_head = data;
     list_amount = *read_head;
 
