@@ -11,8 +11,8 @@ uint8_t debugger_isopen = 0;
 
 RLAPI void debugger_init(void) { debugger_isopen = 0; }
 
-RLAPI void debugger_button(void) {
-    if (GuiButton((Rectangle){24, 24, 120, 30}, "#191#Open Debugger"))
+RLAPI void debugger_button(float x, float y) {
+    if (GuiButton((Rectangle){x, y, 120, 30}, "#191#Open Debugger"))
         debugger_isopen = (debugger_isopen + 1) % 2;
 }
 

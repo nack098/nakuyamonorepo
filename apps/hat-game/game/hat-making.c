@@ -1,5 +1,6 @@
 #include "hat-making.h"
 #include "nakuyadebugger.h"
+#include <assert.h>
 #include <raylib.h>
 #include <stdbool.h>
 #include <stdint.h>
@@ -175,7 +176,7 @@ void hat_making_update(void) {
     hat = &hat_making_state.hat;
     dt = GetFrameTime();
 
-    switch (cutter->state) {
+    switch ((int)cutter->state) {
     case CUTTER_STATE_DOCKED:
         update_docked_state(cutter);
         break;
@@ -196,6 +197,9 @@ void hat_making_update(void) {
     case CUTTER_STATE_MOVING_TO_DOCK:
         update_return_transition_state(cutter, dt);
         break;
+    default:
+        LOG_ERROR("hat_making_update(),Impossible called on switch case");
+        assert(1);
     }
 }
 

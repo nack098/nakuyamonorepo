@@ -152,7 +152,7 @@ int main(void) {
         if (game_state.render)
             game_state.render();
 
-        debugger_button();
+        debugger_button(0, 0);
         debugger_ui();
         EndDrawing();
     }

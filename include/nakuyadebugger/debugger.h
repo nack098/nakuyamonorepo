@@ -8,5 +8,5 @@
 extern uint8_t debugger_isopen;
 
 RLAPI void debugger_init(void);
-RLAPI void debugger_button(void);
+RLAPI void debugger_button(float x, float y);
 RLAPI void debugger_ui(void);
