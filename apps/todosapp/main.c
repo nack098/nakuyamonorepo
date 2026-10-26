@@ -1,3 +1,7 @@
+#if defined(WIN32) && !defined(_DEBUG)
+#pragma comment(linker, "/SUBSYSTEM:windows /ENTRY:mainCRTStartup")
+#endif
+
 #include "loader-config.h"
 #include "loader.h"
 #include "systems.h"
